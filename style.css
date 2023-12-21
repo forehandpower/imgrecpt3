@@ -1,0 +1,41 @@
+body{
+    background-color: pink;
+    color:magenta;
+}
+
+.heading{
+    width:80%;
+    font-size: 22px;
+    letter-spacing: 4px;
+    font-weight: 600;
+    text-shadow: 1px 1px 5px black;
+
+}
+
+.name_of_objects{
+    color: blueviolet;
+   font-size: 18px;
+   font-variant: small-caps;
+   letter-spacing: 4px;
+}
+
+hr{
+    border-color: blue;
+    width: 40%;
+}
+
+#camera,#result{
+    border: 2px dotted black;
+    width: 350px;
+    height: 300px;
+}
+
+#result_object_name,#result_object_accuracy{
+    color: blueviolet;
+    font-size: 20px;
+
+}
+button{
+    width: 150px;
+    font-size: 18px;
+}
